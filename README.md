@@ -15,31 +15,41 @@ Zeb Evans, ClickUp hakkında şöyle diyor: "Amacımız, insanların işlerini y
 ClickUp, kullanıcılara sunduğu geniş özellik yelpazesi ile her türden ekibe hitap eder. İşte ClickUp'ın sunduğu bazı harika özellikler:
 
   **Görev Yönetimi**
-  ClickUp ile görevlerinizi oluşturabilir, atayabilir ve takip edebilirsiniz. Görevlerinize alt görevler ekleyebilir, 
+  <pre>
+   ClickUp ile görevlerinizi oluşturabilir, atayabilir ve takip edebilirsiniz. Görevlerinize alt görevler ekleyebilir, 
   kontrol listeleri oluşturabilir ve yorumlarla detaylandırabilirsiniz. 
   Böylece her şey kontrol altında olur.
+  </pre>
 
   **Proje ve Liste Yönetimi**
+    <pre>
+
   Projelerinizi listeler halinde organize edebilirsiniz. 
   Her projeyi listelerle bölümlere ayırarak, her listenin altında ilgili görevleri oluşturabilirsiniz.
   Bu, projelerinizin daha düzenli olmasını sağlar.
+</pre>
 
   **Takvim ve Zaman Çizelgesi**
+  <pre>
   Takvim ve zaman çizelgesi özellikleri sayesinde görevlerinizi ve projelerinizi planlayabilirsiniz. 
   Bu sayede ekipler iş yüklerini dengeler ve her şey zamanında tamamlanır.
-  
+</pre>
   **Doküman Yönetimi**
-  Belgelerinizi, notlarınızı ve diğer dosyalarınızı doğrudan ClickUp üzerinde oluşturabilir ve saklayabilirsiniz. Bilgi paylaşımı ve iş birliği artık çok daha kolay.
-
+  <pre>
+   Belgelerinizi, notlarınızı ve diğer dosyalarınızı doğrudan ClickUp üzerinde oluşturabilir ve saklayabilirsiniz. Bilgi paylaşımı ve iş birliği artık çok daha kolay.
+  </pre>
   **İş Akışı Otomasyonu**
+  <pre>
   Rutin görevlerinizi ve iş akışlarınızı otomatikleştirerek verimliliğinizi artırabilirsiniz. Bu, zaman kazanmanızı sağlar ve daha önemli işlere odaklanabilirsiniz.
-
+  </pre>
   **Raporlama ve Gösterge Tabloları**
+  <pre>
   Proje ilerlemesini ve ekip performansını izlemek için çeşitli raporlama ve gösterge tablosu seçenekleri sunar. Bu, yöneticilerin daha bilinçli kararlar almasına yardımcı olur.
-
+  </pre>
   **Entegrasyonlar**
+  <pre>
   ClickUp, Slack, Google Drive, GitHub, Trello gibi popüler uygulamalarla entegre olabilir. Bu sayede mevcut araçlarınızla sorunsuz bir şekilde çalışabilirsiniz.
-
+  </pre>
   **Mobil Uygulama**
   ClickUp'ın mobil uygulaması sayesinde nerede olursanız olun görevlerinizi yönetebilir ve işlerinizi takip edebilirsiniz.
 
