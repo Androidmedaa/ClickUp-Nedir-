@@ -1,4 +1,4 @@
-#ClickUp: İşlerinizi Kolaylaştıran Mükemmel Araç
+**ClickUp: İşlerinizi Kolaylaştıran Mükemmel Araç**
 
 **Giriş**
 Merhaba! Bugün size ekiplerin iş akışlarını, projelerini ve görevlerini yönetirken nasıl daha verimli ve mutlu olabileceklerinden bahsetmek istiyorum. 
