@@ -1,4 +1,4 @@
-#**ClickUp: İşlerinizi Kolaylaştıran Mükemmel Araç**
+**ClickUp: İşlerinizi Kolaylaştıran Mükemmel Araç**
 
 **Giriş**
 Merhaba! Bugün size ekiplerin iş akışlarını, projelerini ve görevlerini yönetirken nasıl daha verimli ve mutlu olabileceklerinden bahsetmek istiyorum. 
@@ -9,10 +9,12 @@ Bu makalede, ClickUp'ın ne olduğundan, kim tarafından ve neden kurulduğundan
 ClickUp, 2017 yılında Zeb Evans ve Alex Yurkowski tarafından kuruldu. Kurucuların amacı, 
 insanların işlerini daha kolay ve etkili bir şekilde yönetmelerini sağlamak ve iş hayatında karşılaşılan zorlukları azaltmaktı. 
 San Diego, Kaliforniya merkezli bu yenilikçi ekip, işlerini daha organize hale getirmek isteyen herkes için bir çözüm sundu. 
-Zeb Evans, ClickUp hakkında şöyle diyor: "Amacımız, insanların işlerini yönetme şeklini değiştirmek ve onlara tek bir platformda ihtiyaç duydukları tüm araçları sunmaktı."
+Zeb Evans, ClickUp hakkında şöyle diyor: "Amacımız, insanların işlerini yönetme şeklini 
+değiştirmek ve onlara tek bir platformda ihtiyaç duydukları tüm araçları sunmaktı."
 
 **ClickUp'ın Özellikleri**
-ClickUp, kullanıcılara sunduğu geniş özellik yelpazesi ile her türden ekibe hitap eder. İşte ClickUp'ın sunduğu bazı harika özellikler:
+ClickUp, kullanıcılara sunduğu geniş özellik yelpazesi ile her türden ekibe hitap eder. 
+İşte ClickUp'ın sunduğu bazı harika özellikler:
 
   **Görev Yönetimi**
   <pre>
@@ -23,7 +25,6 @@ ClickUp, kullanıcılara sunduğu geniş özellik yelpazesi ile her türden ekib
 
   **Proje ve Liste Yönetimi**
     <pre>
-
   Projelerinizi listeler halinde organize edebilirsiniz. 
   Her projeyi listelerle bölümlere ayırarak, her listenin altında ilgili görevleri oluşturabilirsiniz.
   Bu, projelerinizin daha düzenli olmasını sağlar.
@@ -36,39 +37,50 @@ ClickUp, kullanıcılara sunduğu geniş özellik yelpazesi ile her türden ekib
 </pre>
   **Doküman Yönetimi**
   <pre>
-   Belgelerinizi, notlarınızı ve diğer dosyalarınızı doğrudan ClickUp üzerinde oluşturabilir ve saklayabilirsiniz. Bilgi paylaşımı ve iş birliği artık çok daha kolay.
+   Belgelerinizi, notlarınızı ve diğer dosyalarınızı doğrudan ClickUp üzerinde oluşturabilir ve saklayabilirsiniz. 
+   Bilgi paylaşımı ve iş birliği artık çok daha kolay.
   </pre>
   **İş Akışı Otomasyonu**
   <pre>
-  Rutin görevlerinizi ve iş akışlarınızı otomatikleştirerek verimliliğinizi artırabilirsiniz. Bu, zaman kazanmanızı sağlar ve daha önemli işlere odaklanabilirsiniz.
+  Rutin görevlerinizi ve iş akışlarınızı otomatikleştirerek verimliliğinizi artırabilirsiniz. 
+   Bu, zaman kazanmanızı sağlar ve daha önemli işlere odaklanabilirsiniz.
   </pre>
   **Raporlama ve Gösterge Tabloları**
   <pre>
-  Proje ilerlemesini ve ekip performansını izlemek için çeşitli raporlama ve gösterge tablosu seçenekleri sunar. Bu, yöneticilerin daha bilinçli kararlar almasına yardımcı olur.
+  Proje ilerlemesini ve ekip performansını izlemek için çeşitli raporlama ve gösterge tablosu seçenekleri sunar. 
+   Bu, yöneticilerin daha bilinçli kararlar almasına yardımcı olur.
   </pre>
   **Entegrasyonlar**
   <pre>
-  ClickUp, Slack, Google Drive, GitHub, Trello gibi popüler uygulamalarla entegre olabilir. Bu sayede mevcut araçlarınızla sorunsuz bir şekilde çalışabilirsiniz.
+  ClickUp, Slack, Google Drive, GitHub, Trello gibi popüler uygulamalarla entegre olabilir. 
+   Bu sayede mevcut araçlarınızla sorunsuz bir şekilde çalışabilirsiniz.
   </pre>
   **Mobil Uygulama**
+  <pre>
   ClickUp'ın mobil uygulaması sayesinde nerede olursanız olun görevlerinizi yönetebilir ve işlerinizi takip edebilirsiniz.
-
+  </pre>
 
 **ClickUp'ın Kullanım Alanları**
+<pre>
 ClickUp, çok çeşitli sektörlerde ve farklı büyüklükteki ekipler tarafından kullanılabilir. İşte bazı kullanım alanları:
-
+</pre>
   **Yazılım Geliştirme**
+  <pre>
   Yazılım geliştirme ekipleri, ClickUp'ı proje yönetimi, hata takibi, sprint planlaması ve ürün yol haritası oluşturma gibi amaçlar için kullanabilir.
-
+  </pre>
   **Pazarlama ve Reklam**
+  <pre>
   Pazarlama ekipleri, kampanyaları planlamak, içerik takvimlerini yönetmek ve performans analizleri yapmak için ClickUp'ı kullanabilir.
-
+  </pre>
   **İnsan Kaynakları**
-  İnsan kaynakları departmanları, işe alım süreçlerini, çalışan performans değerlendirmelerini ve eğitim programlarını organize etmek için ClickUp'ı kullanabilir.
-
+  <pre>
+  İnsan kaynakları departmanları, işe alım süreçlerini, çalışan performans değerlendirmelerini ve eğitim programlarını 
+   organize etmek için ClickUp'ı kullanabilir.
+  </pre>
   **Eğitim**
+   <pre>
   Eğitim kurumları ve öğretmenler, ders planlaması, ödev takibi ve öğrenci performansını izlemek için ClickUp'ı kullanabilir.
-
+   </pre>
 
 **ClickUp'ın Fiyatlandırma Planları**
 ClickUp, farklı ihtiyaçlara ve bütçelere hitap eden çeşitli fiyatlandırma planları sunar. İşte ClickUp'ın ana fiyatlandırma planları:
